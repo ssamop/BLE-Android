@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">milestone1</string>
+    <string name="bluetooth_not_available">Bluetooth is not available</string>
+    <string name="bluetooth_available">Bluetooth is available</string>
+    <string name="bluetooth_on">Bluetooth is on</string>
+    <string name="bluetooth_off">Bluetooth is off</string>
+    <string name="bluetooth_turned_off">Bluetooth turned off</string>
+    <string name="bluetooth_turned_on">Bluetooth turned on</string>
+    <string name="could_not_turn_on_bluetooth">Could not turn on Bluetooth</string>
+    <string name="already_on">Bluetooth is already on</string>
+    <string name="already_off">Bluetooth is already off</string>
+    <string name="making_device_discoverable">Making Your device discoverable</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="turn_on_bluetooth_first">Turn on Bluetooth first</string>
+    <string name="turn_on">Turn On</string>
+    <string name="turn_off">Turn Off</string>
+    <string name="discoverable">Discoverable</string>
+    <string name="get_paired_devices">Get Paired Devices</string>
+    <string name="search">Search</string>
+
+</resources>
